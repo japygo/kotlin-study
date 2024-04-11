@@ -1,4 +1,4 @@
-package study.kotlin
+package study.kotlin.kotlintour
 
 fun main() {
     // Hello world
